@@ -1,32 +1,36 @@
-<h1 align="center">Hi, I'm Hilal 👋</h1>
+<h1 align="center">Hi 👋, I'm Hilal Çalışkan</h1>
 
-I'm a Management Information Systems graduate passionate about building data-driven solutions and exploring how AI can help people better understand information.
+<p align="center">
+Data Science • NLP • Machine Learning • Python Development
+</p>
 
-### Interests
+---
 
-- Natural Language Processing (NLP)
-- Machine Learning
-- Data Science
-- Software Development
-- Data Analytics
-- Recommendation Systems
+## About Me
 
-### Currently Working On
+B.Sc. in Management Information Systems @ Marmara University
 
-- InsightTube
-- NLP Applications
-- Machine Learning Projects
-- Data Analysis & Visualization
-
-### Tech Stack
-
-Python • SQL • C# • JavaScript
-
-Pandas • Scikit-Learn • PostgreSQL • Git
+Interested in Data Science, NLP, Machine Learning, and AI-powered applications
 
 
-### Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/hilal-caaliskan/
+## 🛠 Tech Stack
 
-Email: hilalcaaliskan@gmail.com
+**Languages:** Python, SQL, C#, JavaScript
+
+**Data Science:** Pandas, Scikit-Learn, NLP, Machine Learning
+
+**Databases:** MSSQL, MySQL, PostgreSQL
+
+**Tools:** Git, Jupyter Notebook, PyCharm, Visual Studio, Power BI
+
+
+---
+
+## 📫 Connect With Me
+
+📧 hilalcaaliskan@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/hilal-caaliskan/
+
