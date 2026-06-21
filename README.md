@@ -19,6 +19,6 @@ Python • SQL • C# • JavaScript • Pandas • Scikit-Learn • PostgreSQL 
 
 ## Contact Me
 
-📧 hilalcaaliskan@gmail.com
+📧 Mail: hilalcaaliskan@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/hilal-caaliskan/
